@@ -1,0 +1,24 @@
+{
+  "name": "v2rayn-project",
+  "version": "1.0.0",
+  "description": "_以下均来自GitHub_",
+  "main": "fetch.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sunJia8-17/sunJia.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/sunJia8-17/sunJia/issues"
+  },
+  "homepage": "https://github.com/sunJia8-17/sunJia#readme",
+  "dependencies": {
+    "puppeteer": "^25.3.0"
+  }
+}

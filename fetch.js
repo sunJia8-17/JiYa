@@ -22,7 +22,7 @@ function isValidUrl(str) {
         const parsed = new URL(str);
         return parsed.protocol === 'http:' || parsed.protocol === 'https:';
     } catch {
-        return false;
+        return false;2026
     }
 }
 
